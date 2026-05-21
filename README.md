@@ -1,4 +1,4 @@
-# FindTheBug 🐛
+# 5ndTheBug 🐛
 
 A small PHP quiz game that tests your PHP knowledge under time pressure — 10 random questions, 5 seconds each, straight from a pool of common PHP concepts and classic beginner bugs.
 
